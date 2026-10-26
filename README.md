@@ -1,163 +1,176 @@
 <!--
-  GitHub Profile README
+  GITHUB PROFILE README
   Repository: yuri342/yuri342
+  Replace this file with the content below.
 -->
 
 <div align="center">
 
 # Yuri Bertola
 
-### Software Development · Automation · Data · Artificial Intelligence
+### Computer Engineering Student · Software Developer · Automation & Data
 
-Building software that solves real problems.
+Building software that solves real problems through automation, data, and AI.
 
-[LinkedIn](https://www.linkedin.com/in/yuri-bertola/) · [GitHub](https://github.com/yuri342)
+<br />
+
+<a href="https://github.com/yuri342">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/yuri-bertola/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/yuri342?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+</a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=3" width="100%" alt="" />
 
 </div>
 
----
+## 👨‍💻 About Me
 
-## About Me
+I'm a Computer Engineering student from Brazil interested in building practical, reliable, and scalable software.
 
-I'm a Computer Engineering student interested in building practical software solutions, automating processes, and exploring the intersection of software engineering, data, and artificial intelligence.
+My work and studies bring together **software development, process automation, data analysis, and artificial intelligence**. I enjoy understanding how a problem works, designing a solution, and turning it into something useful.
 
-My experience combines software development, API integrations, data analysis, and process automation. I enjoy understanding how systems work, identifying opportunities for improvement, and turning ideas into functional applications.
+- 💻 Interested in backend development, APIs, and software architecture.
+- ⚙️ Experienced with Python automation, data processing, and integrations.
+- 📊 Interested in data analytics, dashboards, and business intelligence.
+- 🤖 Exploring AI applications and locally hosted language models.
+- 🌱 Continuously improving my skills through hands-on projects.
 
-Currently, I'm focused on strengthening my software engineering foundations and building projects that connect technology with real-world needs.
-
-- **Software Development:** Web applications, APIs, and backend systems.
-- **Automation:** Python scripts, API integrations, and workflow optimization.
-- **Data:** Data modeling, SQL, and analytical dashboards.
-- **Artificial Intelligence:** AI-powered applications and local LLM integrations.
-- **Currently learning:** Computer Engineering, system design, and software architecture.
+> **My approach:** technology should reduce complexity and give people more time to focus on what matters.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-181818?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-181818?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-181818?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-181818?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" alt="Python, Java, JavaScript, TypeScript, HTML and CSS" />
 </p>
 
-### Backend & APIs
+### Frameworks & Development
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-181818?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-181818?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-181818?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/REST_APIs-181818?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,react,nextjs,tailwind" alt="Node.js, Express, Spring, React, Next.js and Tailwind CSS" />
 </p>
 
-### Frontend
+### Databases & Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/React-181818?style=flat-square&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-181818?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/HTML5-181818?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-181818?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,git,github,powershell" alt="PostgreSQL, Supabase, SQLite, Git, GitHub and PowerShell" />
 </p>
 
 ### Data & Artificial Intelligence
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-181818?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Power_BI-181818?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Pandas-181818?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Ollama-181818?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-181818?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"/>
-</p>
-
-### Tools & Workflow
-
-<p>
-  <img src="https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/PowerShell-181818?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
 ---
 
-## Featured Projects
+## 🚀 Selected Work
 
-### HavenAI
+### 🤖 AI-Powered Applications
 
-An AI-powered conversational application exploring how technology can provide meaningful support through accessible digital experiences.
+Exploring how language models and APIs can be integrated into applications to create useful, accessible experiences.
 
-**Focus:** AI integration, conversational interfaces, authentication, and full-stack development.
+**Focus:** AI integrations · REST APIs · Node.js · React · Python
 
-**Technologies:** React, JavaScript, Node.js, Express, Hugging Face API, Axios.
+### ⚙️ Process Automation & System Integration
 
-### Process Automation & Data Integration
+Developing solutions that reduce repetitive work, connect systems, and improve operational workflows.
 
-Automation solutions designed to reduce repetitive work, integrate systems, and improve the reliability of operational workflows.
+**Focus:** Python · API integrations · Data processing · Excel automation
 
-**Focus:** API integration, data processing, spreadsheet automation, and workflow optimization.
+### 📊 Data Analytics & Business Intelligence
 
-**Technologies:** Python, REST APIs, Excel, data modeling.
+Transforming operational data into structured information and dashboards that help people understand performance and make better decisions.
 
-### Data Analytics
+**Focus:** Power BI · DAX · Data modeling · KPIs
 
-Data analysis and dashboard development focused on transforming operational information into actionable insights.
+### 🌐 Web Development
 
-**Focus:** KPI monitoring, data modeling, and business intelligence.
+Building web applications with modern frontend technologies and backend services, with an emphasis on maintainability and usability.
 
-**Technologies:** Power BI, DAX, SQL.
+**Focus:** JavaScript · TypeScript · React · Next.js · Node.js · SQL
 
-### AI & Software Engineering
-
-Exploring the development of applications that combine backend services, databases, and locally running language models.
-
-**Focus:** API development, database integration, LLMs, and application architecture.
-
-**Technologies:** Java, Spring Boot, PostgreSQL, Python, Ollama.
-
----
-
-## What I'm Interested In
-
-- Designing reliable and maintainable software.
-- Building useful APIs and backend services.
-- Automating repetitive and complex workflows.
-- Applying AI to practical problems.
-- Turning raw data into meaningful information.
-- Learning more about systems, architecture, and computer engineering.
-
----
-
-## GitHub Activity
+<br />
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yuri342&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri342&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA" alt="Most used programming languages"/>
+<a href="https://github.com/yuri342?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
+</a>
 
 </div>
 
 ---
 
-## Connect
-
-I'm interested in connecting with developers, exchanging knowledge, and exploring opportunities to build meaningful software.
-
-<p align="center">
-  <a href="https://github.com/yuri342">
-    <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yuri-bertola/">
-    <img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+## 📈 GitHub Analytics
 
 <div align="center">
 
-*Building, learning, and improving — one project at a time.*
+<img
+  src="https://github-readme-stats.vercel.app/api?username=yuri342&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"
+  alt="GitHub statistics"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri342&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+  alt="Most used programming languages"
+  height="165"
+/>
+
+<br /><br />
+
+<img
+  src="https://streak-stats.demolab.com?user=yuri342&theme=github-dark-blue&hide_border=true&background=0D1117"
+  alt="GitHub contribution streak"
+/>
+
+</div>
+
+<sub>Statistics are generated by external services and may occasionally be unavailable or delayed.</sub>
+
+---
+
+## 🎯 Current Interests
+
+- Backend engineering and API design
+- Software architecture and maintainable systems
+- AI-powered applications and local LLMs
+- Workflow automation and system integration
+- Data engineering and analytical tools
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, learning from other engineers, and collaborating on projects involving software, automation, data, and AI.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yuri-bertola/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="https://github.com/yuri342">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+</a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=3" width="100%" alt="" />
+
+<sub>Designed with a focus on software, continuous learning, and practical engineering.</sub>
 
 </div>
